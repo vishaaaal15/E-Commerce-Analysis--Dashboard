@@ -42,6 +42,7 @@ The objective of this project is to:
 * Data Cleaning
 * Data Visualization
 * KPI Reporting
+* Tableau
 
 ---
 
@@ -106,7 +107,8 @@ It reflects strong business intelligence, reporting, and analytical problem-solv
 
 ## Dashboard Preview
 
-()
+(Excel Dashboard Screenshot.png)
+(Tableau Dashboard Screenshot.png)
 
 ---
 
@@ -114,5 +116,5 @@ It reflects strong business intelligence, reporting, and analytical problem-solv
 
 Vishal Singh
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Aspiring Data Analyst | Power BI | SQL | Excel | Python | Tableau
 
